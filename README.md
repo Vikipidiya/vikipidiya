@@ -1,6 +1,6 @@
 👋 Hi, I'm vicky solanki(vikipidya)
 
-🎯 Aspiring Cyber Security Intern | OSINT | VAPT | Web Security  
+🎯 Aspiring Cyber Security aspirant | OSINT | VAPT | Web Security  
 📍 India  
 
 ---
