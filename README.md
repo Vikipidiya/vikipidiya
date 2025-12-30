@@ -1,7 +1,8 @@
 👋 Hi, I'm vicky solanki(vikipidya)
 
-🎯 Aspiring Cyber Security aspirant | OSINT | VAPT | Web Application security pentester (WAPT)| red teaming 
-📍 India  
+🎯 Aspiring Cybersecurity Learner | Ethical Hacking | offensive security | VAPT  | Web Application Pentesting (WAPT) | OSINT |  
+📍 India
+
 
 ---
 
