@@ -1,12 +1,22 @@
 👋 Hi, I'm vicky solanki(vikipidya)
 
-🎯 Aspiring Cyber Security aspirant | OSINT | VAPT | Web Security  
+🎯 Aspiring Cyber Security aspirant | OSINT | VAPT | Web Application security pentester (WAPT)| red teaming 
 📍 India  
 
 ---
 
- 🧑‍💻 About Me
-I am a cybersecurity enthusiast with hands-on experience in ethical hacking concepts, OSINT-based footprinting, and web application security testing. I enjoy documenting my learning and building practical security projects.
+🧑‍💻 About Me
+## About Me
+
+## About Me
+
+Cybersecurity can be complex for beginners, and I’m an aspiring learner exploring this field hands-on.  
+On my GitHub, I document labs, CTF challenges, pentesting exercises, and write-ups to make learning structured and practical.  
+I enjoy exploring different areas of cybersecurity, analyzing vulnerabilities ethically, and sharing my experiences to strengthen my skills and help others understand real-world security concepts.
+
+
+
+.
 
 ---
 
