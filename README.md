@@ -5,10 +5,7 @@
 
 ---
 
-🧑‍💻 About Me
-## About Me
-
-## About Me
+🧑‍💻 ## About Me
 
 Cybersecurity can be complex for beginners, and I’m an aspiring learner exploring this field hands-on.  
 On my GitHub, I document labs, CTF challenges, pentesting exercises, and write-ups to make learning structured and practical.  
