@@ -3,6 +3,11 @@
 🎯 Aspiring Cybersecurity Learner |junior pentester | Ethical Hacking | offensive security | VAPT  | Web Application Pentesting (WAPT) | OSINT |  
 📍 India
 
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=security&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-darkred?style=for-the-badge&logo=hackaday&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-black?style=for-the-badge&logo=kalilinux&logoColor=white)
+![VAPT](https://img.shields.io/badge/VAPT-003366?style=for-the-badge&logo=datadog&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-2E3440?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
