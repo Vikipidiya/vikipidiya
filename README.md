@@ -33,7 +33,10 @@ I enjoy exploring different areas of cybersecurity, analyzing vulnerabilities et
 
  🌐 Web Security
 - OWASP Top 10  
-- Web Application Fundamentals    
+- Web Application Fundamentals
+ ![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-black?style=for-the-badge&logo=owasp&logoColor=white)
+![Web Pentesting](https://img.shields.io/badge/Web%20App%20Pentesting-005571?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
+ 
 
  🧰 Tools (Ethical Hacking)
 - **Recon & OSINT:** Nmap, Amass, theHarvester, Hunter.io,recong,osint(google dorking)  
