@@ -9,6 +9,9 @@
 ![VAPT](https://img.shields.io/badge/VAPT-003366?style=for-the-badge&logo=datadog&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-2E3440?style=for-the-badge&logo=google&logoColor=white)
 
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-black?style=for-the-badge&logo=owasp&logoColor=white)
+![Web Pentesting](https://img.shields.io/badge/Web%20App%20Pentesting-005571?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
+
 ---
 
 🧑‍💻 ## About Me
@@ -34,8 +37,7 @@ I enjoy exploring different areas of cybersecurity, analyzing vulnerabilities et
  🌐 Web Security
 - OWASP Top 10  
 - Web Application Fundamentals
- ![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-black?style=for-the-badge&logo=owasp&logoColor=white)
-![Web Pentesting](https://img.shields.io/badge/Web%20App%20Pentesting-005571?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
+ 
  
 
  🧰 Tools (Ethical Hacking)
