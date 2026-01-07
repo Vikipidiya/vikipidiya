@@ -19,7 +19,8 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3785650" style='border:none;'></iframe>
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3785650)
+
 
 ---
 
